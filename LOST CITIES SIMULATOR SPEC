@@ -1,0 +1,14 @@
+LOST CITIES SIMULATOR SPEC
+
+__Purpose__
+Intelligent opponent to play Lost Cities.
+
+P-1: 
+  - Playable and readable interface (CLI) 
+
+P0: 
+  - Opponent makes an informed decision with only their hand
+
+P1: 
+  - Wager mechanism
+  - Configurable settings
